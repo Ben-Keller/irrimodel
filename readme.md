@@ -1,5 +1,5 @@
 
-<h1 id="irrimodel-v1.0">IrriModel v1.0</h1>
+<h1 id="irrimodel-v0.0.1">IrriModel v0.0.1</h1>
 <p>An open source irrigation model and interactive visualization tool. For use by researchers, technology developers, financiers, and development agencies to assess the climatic datasets linked to irrigation and the potential impacts of irrigation technology and financial schemes.</p>
 <p>The interface for IrriModel was developed using Jupyter notebook widgets, and this allows the entire functionality of the model and each of its functions can be explored through interactive maps and charts.</p>
 <h3 id="model-parameters">Model Parameters</h3>
